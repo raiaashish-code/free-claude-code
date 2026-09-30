@@ -1,0 +1,8 @@
+{
+  "name": "Free Claude Code",
+  "description": "Local proxy and admin console connecting coding agents to OpenAI-compatible AI providers",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
